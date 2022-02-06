@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="pt"><generator uri="https://jekyllrb.com/" version="4.2.1">Jekyll</generator><link href="https://iuriepi.github.io/feed.xml" rel="self" type="application/atom+xml" /><link href="https://iuriepi.github.io/" rel="alternate" type="text/html" hreflang="pt" /><updated>2022-02-06T20:54:49+00:00</updated><id>https://iuriepi.github.io/feed.xml</id><title type="html">Iuri’s</title><subtitle>Aprendendo sobre a web e muito mais.</subtitle><entry><title type="html">Hello peoples</title><link href="https://iuriepi.github.io/2022/01/23/iuriepi.html" rel="alternate" type="text/html" title="Hello peoples" /><published>2022-01-23T23:07:48+00:00</published><updated>2022-01-23T23:07:48+00:00</updated><id>https://iuriepi.github.io/2022/01/23/iuriepi</id><content type="html" xml:base="https://iuriepi.github.io/2022/01/23/iuriepi.html">&lt;h1 style=&quot;color: red:&quot;&gt;start of everything&lt;/h1&gt;
+&lt;p&gt;
+    &lt;h2&gt; i have no ideia what i will put in this site, but i will make something&lt;h2&gt;
+&amp;lt;/p&amp;gt;
+&lt;h2&gt; starting wich h2&lt;h2&gt;
+&lt;!--easteregg--&gt;
+&lt;h3&gt;
+    &lt;a href=&quot;https://www.instagram.com/iuri_epi/&quot; target=&quot;_blank&quot;&gt;iuri fotos&lt;/a&gt;
+&lt;h3&gt; 
+  
+&lt;img src=&quot;https://www.instagram.com/iuri_epi/&quot; alt=&quot;iuriepi&quot; /&gt;
+
+&lt;p&gt; coisas que iuri gosta&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;jogos&lt;/li&gt;
+    &lt;li&gt;conversar&lt;/li&gt;
+    &lt;li&gt;comer&lt;/li&gt;
+&lt;/ul&gt;
+  
+ &lt;input type=&quot;text&quot; placeholder=&quot;password&quot; required=&quot;iuri&quot; /&gt;
+ &lt;button type=&quot;submit&quot;&gt; 
+    
+     
+ &lt;label for=&quot;indoor&quot;&gt;&amp;lt;input id=&quot;indoor&quot; type=&quot;radio&quot; name=&amp;gt; ON&lt;/label&gt;
+     
+ &lt;/button&gt;
+&lt;/h3&gt;&lt;/h3&gt;&lt;/h2&gt;&lt;/h2&gt;&lt;/h2&gt;&lt;/h2&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">start of everything i have no ideia what i will put in this site, but i will make something &amp;lt;/p&amp;gt; starting wich h2 iuri fotos</summary></entry><entry><title type="html">Colocando code pen no seu blog</title><link href="https://iuriepi.github.io/2022/01/20/colocando-code-pen.html" rel="alternate" type="text/html" title="Colocando code pen no seu blog" /><published>2022-01-20T00:09:37+00:00</published><updated>2022-01-20T00:09:37+00:00</updated><id>https://iuriepi.github.io/2022/01/20/colocando-code-pen</id><content type="html" xml:base="https://iuriepi.github.io/2022/01/20/colocando-code-pen.html">&lt;p&gt;Para colocar o codepen no seu blog você só precisa incluir a seguinte tag:&lt;/p&gt;
+
+&lt;p data-height=&quot;400&quot; data-theme-id=&quot;0&quot; data-slug-hash=&quot;dypvKvR&quot; data-default-tab=&quot;result&quot; data-user=&quot;&quot; class=&quot;codepen&quot;&gt;See the Pen &lt;a href=&quot;http://codepen.io//pen/dypvKvR/&quot;&gt;Random Pen&lt;/a&gt; by  (&lt;a href=&quot;http://codepen.io/&quot;&gt;@&lt;/a&gt;) on &lt;a href=&quot;http://codepen.io&quot;&gt;CodePen&lt;/a&gt;.&lt;/p&gt;
+&lt;script async=&quot;&quot; src=&quot;//assets.codepen.io/assets/embed/ei.js&quot;&gt;&lt;/script&gt;</content><author><name></name></author><summary type="html">Para colocar o codepen no seu blog você só precisa incluir a seguinte tag:</summary></entry><entry><title type="html">Hello World</title><link href="https://iuriepi.github.io/2022/01/18/hello-world.html" rel="alternate" type="text/html" title="Hello World" /><published>2022-01-18T00:05:37+00:00</published><updated>2022-01-18T00:05:37+00:00</updated><id>https://iuriepi.github.io/2022/01/18/hello-world</id><content type="html" xml:base="https://iuriepi.github.io/2022/01/18/hello-world.html">&lt;p&gt;Hello World!&lt;/p&gt;</content><author><name></name></author><summary type="html">Hello World!</summary></entry></feed>
